@@ -1,0 +1,1 @@
+<jsp:useBean id="newsService" class="service.news.impl.NewsServiceImpl" scope="page"/>
